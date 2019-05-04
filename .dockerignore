@@ -1,0 +1,12 @@
+**/target
+
+**/.git
+.gitignore
+
+.dockerignore
+docker-compose.yaml
+Dockerfile
+
+.settings
+.classpath
+.project
